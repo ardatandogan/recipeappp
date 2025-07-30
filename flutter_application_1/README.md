@@ -1,6 +1,6 @@
-# flutter_application_1
+# RecipeApp
 
-A new Flutter project.
+A flutter project which created as school project for Engineering Project Lecture.
 
 ## Getting Started
 
